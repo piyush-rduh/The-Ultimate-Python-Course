@@ -1,4 +1,4 @@
-class Employee: 
+class Employ:
     language = "Py" # This is a class attribute
     salary = 1200000
 
